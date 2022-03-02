@@ -1,5 +1,5 @@
 # product_search
-
+***需下載與當前chrome版本一致的"chromedriver"與執行檔放在同一檔案路徑中***<br>
 輸入要查詢的商品名稱、要抓取的資料量<br>
 點選要查詢的購物網<br>
 <br>
